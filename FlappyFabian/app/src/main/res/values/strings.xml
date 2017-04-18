@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Flappy Fabian</string>
     <string name="action_settings">Settings</string>
+    <string name="StartGame">Start game</string>
+    <string name="HelpMenu">Help!!</string>
+    <string name="SettingsButn">Game settings</string>
 </resources>

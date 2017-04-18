@@ -49,4 +49,16 @@ public class StartMenu extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    public void startGame(){
+
+    }
+
+    public void help(){
+
+    }
+
+    public void settings(){
+
+    }
 }
