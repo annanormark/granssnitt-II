@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flappy Fabian</string>
+    <string name="HelpMenu">Hjälp</string>
+    <string name="SettingsButn">Inställningar</string>
+    <string name="StartGame">STARTA SPEL</string>
+    <string name="action_settings">INSTÄLLNINGAR</string>
+    <string name="startButton">Start</string>
+    <string name="title_activity_game">Spel</string>
+    <string name="title_activity_help">Hjälp</string>
+    <string name="title_activity_settings">Inställningar</string>
+</resources>

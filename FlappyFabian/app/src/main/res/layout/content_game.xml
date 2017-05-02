@@ -12,4 +12,14 @@
     tools:context="com.example.flappyfabian.Game"
     tools:showIn="@layout/activity_game">
 
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="161dp"
+        android:onClick="startAnimation"
+        android:text="@string/startButton" />
 </RelativeLayout>
