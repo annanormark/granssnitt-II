@@ -8,7 +8,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 public class Game extends AppCompatActivity {
-    //Hallåååååååå
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -17,4 +16,3 @@ public class Game extends AppCompatActivity {
     }
 
 }
-//HAR JU KMOMENTERAT SKIT!!
